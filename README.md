@@ -1,6 +1,6 @@
 ## 音击单曲查分器
 
-部署地址： [点击前往](tools.morami.icu/ongeki-songra)
+部署地址： [点击前往](https://tools.morami.icu/ongeki-songra)
 
 允许带有原项目出处的自部署，感谢理解！
 
